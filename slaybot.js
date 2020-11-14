@@ -88,4 +88,4 @@ client.on("ready", () => {
 })
 
 
-client.login("NzEyNDUyODEwMTY3NDE4OTAx.XsRxYg.D8SAxJR0LZ-JXg1nCZ6iV12G-ps");
+client.login("TOKEN AQUI");
